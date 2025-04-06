@@ -1,15 +1,14 @@
 h1{
     color: brown;
-}
+    text-align: center;
+    }
 h2{
-
     color: blue;
 }
 .bleu {
     color: blue;
 }
 .jaune {
-
     color: yellow;
 }
 h3{
@@ -22,8 +21,5 @@ p {
     width: 50%;
     text-align: center;
     margin:auto
-    
 }
-h1{
-    text-align: center;
-}
+
